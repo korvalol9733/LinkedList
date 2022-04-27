@@ -123,10 +123,6 @@ int main()
     isert(h, e, 11, 2);
     isert(h, e, 10, 3);
     isert(h, e, 123412, 999);
-
-   //delete_element(h, e, 11);
-   //delete_element(h, e, 1);
-   //delete_element(h, e, 4);
     
     print(h);
 }
